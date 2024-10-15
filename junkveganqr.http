@@ -1,0 +1,6 @@
+@junkveganqr_HostAddress = http://localhost:5150
+
+GET {{junkveganqr_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
